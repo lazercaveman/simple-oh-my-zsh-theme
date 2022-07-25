@@ -1,7 +1,7 @@
 # oh-my-zsh-theme - lazercaveman    
 This is a Theme for oh-my-zsh.
 
-## Hoiw to add the theme
+## How to add the theme
 Go to user/username/.oh-my-zsh/themes/<<add theme-file here>>
 
 ## How to activate the Theme
